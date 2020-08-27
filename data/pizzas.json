@@ -1,0 +1,26 @@
+[
+{
+	"id": 1,
+	"name": "Capricciosa",
+	"ingredients": [
+	"tomato sauce", "mozzarella", "mushrooms", "chicken", "olives"]
+},
+{
+	"id": 2,
+	"name": "Quatre Frommage",
+	"ingredients": [
+	"Chevre", "mozzarella", "Parmesan", "Chesdale", "White source"]
+},
+{
+	"id": 3,
+	"name": "Chicken Supreme",
+	"ingredients": [
+	"Chicken", "Ananas", "Caprium", "Mozarella", "tomato source"]
+},
+{
+	"id": 4,
+	"name": "Super Supreme",
+	"ingredients": [
+	"Chicken", "Sausage", "mushrooms", "Chesdale", "tomato source"]
+}
+]
